@@ -1,0 +1,100 @@
+# The Libre Designer.
+
+I have been working on a project called "The Libre Designer."
+
+I guess it started as an attempt to better explore the territory where Sustainability and Design overlap and create a new ideal for a design practice.
+
+[sust + design venn diagram?]
+
+What stemmed from an initial investigation into some Libre fonts — I had found things like the Gentium project. At the time (2007 or 2008?) had one of the more complete latin character maps. This felt more accessible, it was free to get, free to use, and served more people's languages, this felt more "sustainable" than other non-free, less character complete options at the time...
+
+So, from starting there I've ended up in this new place where I'm trying to adopt a fully libre computer setup.
+
+[GNU/Linux? F/LOSS? slide][tux? GNU wildebeast? something else visually interesting]
+
+The way I'm attempting to describe my point of view (for sustainable design) is with this idea: design for the welfare of all life; or that all life should be allowed to flourish, and we need to help serve that end...
+
+What I'm trying to figure out now is how F/LOS does that — serves the welfare of all life — better than what we've got going on now...
+
+I've found that the realm of F/LOS (Free/Libre Open Source) is an idealistic and diverse ecosystem.
+
+It's underpinnings lie in Richard Stallman's "Four Freedoms"
+
+The four essential freedoms according to the Free Software Foundation are (1) “the freedom to run the program, for any purpose,” (2) “the freedom to study how the program works, and change it to make it do what you wish,” (3) “the freedom to redistribute copies so you can help your neighbor,” and (4) “the freedom to distribute copies of your modified versions to others.” Free Software Foundation, “The Free Software Definition,” 1996,
+
+[Stallman's golden rule quote?]
+
+Long story short, Stallman lamented the loss of the vernacular, no strings attached method of computer programming (everyone shared and built upon each others code...). He saw the capitalist wave coming. His freedoms were meant to keep the user in power, not make software users subservient to software providers. Anyway, with this set of ideals, these match better the aims of sustainability!?
+
+(these are also good academically, but that's perhaps a different discussion?)
+
+Anyway, my vision of "sustainability" is more marxist, less capitalist — more about measuring different kinds of metrics than just dollars in the bank account or share price — more about helping humans do what they need, not what someone else wants … And if we look at nature, nature has lots of different solutions, not giant monolithic ones, F/LOSS fits into all this better than proprietary...
+
+…
+
+That's great as a set of ideals — how does it work in practice?
+Can Designer's open source???
+
+What operating system do I pick???
+
+So you want to use GNU/Linux? well, first you have to pick from the roughly 1500 distributions which one is right for you...
+
+I've tried Debian, Raspbian (built from debian specifically for optimization on Raspberry Pis), Ubuntu, Fedora, OpenSUSE, LinuxMINT, Manjaro, EasyOS, Arch Linux, and a few other things... Ubuntu is based on Debian, LinuxMINT is based on Ubuntu... Manjaro is based on Arch... It gets confusing...
+
+Okay, so you finally figured out what you're installing — now, what GUI are you going to choose? simple? complex? bloated? minimal? GNOME, XFCE, KDE Neon, Cinnamon, LXDE, MATE????? omg.
+
+What theme? What icon package???????
+
+[explode?]
+
+No wonder designer's don't do this.
+And yet, why not, you're actually in control — the same kinds of crazy detail you put into all the parts of a website, all the pieces of a brand, all the line breaks of a book, or picking (often open source if for a digital project) components, themes, colors, type, whatever, you can now put into your operating system!
+
+You can customize the icons, the layouts, all kinds of things — you can even control some things within the programs themselves (though this differs application to application)
+
+Okay, so, that's just to get an install on your computer and booted up into a usable (mostly) desktop environment.
+
+What about software???
+
+Now, it wasn't so long ago that this was a complicated question... There weren't always options... that's been changing. For sure there is something for pretty much anything you need to make. How it works though, that's a crap shoot. Since the software follows the same haphazard, diverse ecosystem patterns, its all over the place in terms of how things work, what keys do what, where menus are, what conventions are understood.
+
+You start playing around with these things and you say to yourself, okay, do I want to make something, or do I want to make my computer work... like is just getting my os and interfaces setup my fulltime job now? when do I get around to actually designing something?
+
+In terms of installing things, in terms of accessing whatever you want, GNU/Linux has been amazing.
+In terms of actually getting things setup enough that I feel comfortable working? I'm still figuring that out. Perhaps its because I've made the playing around with what's what the main part of my process right now, I need to find some projects to actually make somethings for (this talk was a good one...)
+
+The tools I've found most interesting aren't teh ones trying to be direct replacements for some existing tools — LibreOffice, Inkscape, GIMP, Scribus, FontForge (scribus is the worst to use of pretty much all the tools I've tried in linux) — it is the software that doesn't have a proprietary counterpart — Drawbot, Nodebox, some command line tools (ghostscript).
+
+What I've learned in my 10 months or so of GNU/Linux experiments (really hardcore for the last couple of months) is that I have to remind myself that I spent nearly 30 years using and learning and training myself on MacOS and Adobe products and the like. I spent most of my life using these proprietary tools and letting myself get used to them. I didn't really think there was an alternative; or rather I didn't really think of using or trying alternatives, they were "professional"
+
+What I'm finding is that, assuming that, its stupid. These other things are totally capable of producing "professional" output. I just might have to learn more, or relearn some, to make that happen. The advantage is I'm no longer tied to what Apple or Adobe want me to make; want to allow me to make.
+
+Eli Heuers quote re: under estimating vs over estimating user abilities
+
+I also need to get into how to make my files/designs open too.
+There are a few people working on this — unsplash, undraw, many icons and typeface, OSP, LibreGraphics Magazine... there aren't that many other options to look into right now — and the way the licensing works for software isn't exactly perfect when it comes to design files. Why is it useful to be able to download my files for this identity I made?
+
+To wrapup:
+
+I've been exploring the Free/Libre Open source landscape
+
+I've been trying to switch all my typefaces to F/loss
+
+I've been switching my workflow as much as possible on new things to it as well (basically I slowly am trying to make each new thing more and more fully reliany on the new tools, old things/collaborations are currently gradfathered in)
+
+I've been engaging people on twitter and instagram towards these ends as well, and I've inspired a few students and other colleagues to try new software, install linux, tweak projects to be more about these somethings
+
+I'm working on getting some repositories of actually design files online too
+
+And then next steps are that I need to document all the things I've done and thought about so far to speed up some other designer's adoption of these somethings
+
+I'm also hoping to work on some graphics of my own — an icon theme, some typefaces, etc. and build a designed GUI layer that can show how a designer might engage in customizing things on their end, or at least convey that this realm isn't designer less (most designers you find, either weren't initially designers, or perhaps have a different set of standards or tastes they are basing successful design from?)
+
+Sidenote: I want to add that its humourous to me that so many web things are "open source". It isn't strange for a designer to use something like twitter bootstrap or skeleton or react or wordpress to make something for the web (or even just HTML, CSS, Javascript, XML, PHP, MySQL — these are all "open source" too) but balk at libre type or a libre graphics software. Maybe its that the newer open source stuff is innovating in interesting ways — or just that there is only open source stuff online for the most part? Anyway, you see the same sort of massive ecosystems of tools in these places, and its getting hard to know what to learn or pick or whatever... anyway, we're not averse to open source in some tools and places (processing? brackets/atom?) so why not others?
+
+As the ideals of floss were socially positive, if you believe in valuing people over companies, if you believe in democracy and merit, if you believe in diversity, then F/LOSS tools provide a plethora of options that should better match your philosophies than the proprietary offerings do...
+
+
+
+
+https://www.naturalreaders.com/online/
