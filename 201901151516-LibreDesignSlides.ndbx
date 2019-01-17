@@ -5,7 +5,7 @@
     <property name="canvasX" value="0"/>
     <property name="canvasY" value="0"/>
     <property name="frameRate" value="30"/>
-    <node name="root" prototype="core.network" renderedChild="combine1">
+    <node name="root" prototype="core.network" renderedChild="import_text2">
         <node name="colorize1" position="2.00,3.00" prototype="corevector.colorize">
             <port name="fill" type="color" value="#00000000"/>
             <port name="strokeWidth" type="float" value="3.0"/>
@@ -26,7 +26,7 @@
             <port name="alpha" type="float" value="75.0"/>
         </node>
         <node name="import_text1" position="5.00,-3.00" prototype="data.import_text">
-            <port name="file" type="string" value="/Users/bjornmeansbear/Desktop/NodeBoxSlides/201901151508-slidetest.txt"/>
+            <port name="file" type="string" value="201901151508-slidetest.txt"/>
         </node>
         <node name="import_text2" position="9.00,-3.00" prototype="data.import_text">
             <port name="file" type="string" value="fontnames"/>
